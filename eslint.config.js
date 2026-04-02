@@ -11,6 +11,7 @@ export default antfu(
       '**/registry/**/__index__.ts',
       '**/*.md',
       'deprecated/**/*',
+      'pnpm-workspace.yaml',
     ],
   },
   {
